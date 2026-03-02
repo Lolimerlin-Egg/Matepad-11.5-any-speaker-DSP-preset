@@ -2,6 +2,8 @@
 This is a DSP chain of android apps that I kinda mixed up to fix matepad audios and so are other devices too if you know how to tweak it.
 So I have been having problem with matepad 11.5 sound where the speaker sounds pretty muddy and weird like wet paper so I tried to fix it with rootless Jamesdsp and XEQ so here is the preset if you wanna try it out. It should sound kinda iphony maybe.
 
+The sound : should be more glued together and has phantom bass less muddy and more organic and clearer.
+
 Disclaimer! I am not responsible for any damages done to your devices if something happens.
 
 Note : It is important to disable any sound effefts you have beforehand eq set to default or flat and dolby atmos off entirely and any other sound effects as it jumbles up with the preset too as for tweaking you can tweak however you want each device has different characteristics so tweak it to your device sound and yes this is for speaker only.
