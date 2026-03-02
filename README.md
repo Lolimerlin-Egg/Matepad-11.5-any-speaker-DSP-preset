@@ -4,7 +4,7 @@ So I have been having problem with matepad 11.5 sound where the speaker sounds p
 
 Disclaimer! I am not responsible for any damages done to your devices if something happens.
 
-Link : https://pixeldrain.com/l/zpdNxuEZ (updated!)
+Link : https://pixeldrain.com/l/zpdNxuEZ (updated!) or download from the files above they are the same.
 
 How to use :
 
