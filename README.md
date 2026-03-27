@@ -8,7 +8,7 @@ Disclaimer! I am not responsible for any damages done to your devices if somethi
 
 Note : It is important to disable any sound effefts you have beforehand eq set to default or flat and dolby atmos off entirely and any other sound effects as it jumbles up with the preset too as for tweaking you can tweak however you want each device has different characteristics so tweak it to your device sound and yes this is for speaker only.
 
-Link : https://pixeldrain.com/l/zpdNxuEZ (updated!) or download from the files above they are the same.
+Link : https://pixeldrain.com/l/YJALMMLT (updated!) or download from the files above they are the same.
 
 How to use :
 
